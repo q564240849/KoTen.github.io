@@ -1,0 +1,4 @@
+---
+title: Japan
+layout: "gallery"
+---
